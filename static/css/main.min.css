@@ -6556,7 +6556,7 @@ button.bg-light:hover {
 }
 
 .bg-dark {
-    background-color: #000408 !important
+    background-color: #071625 !important
 }
 
 a.bg-dark:focus,
@@ -11077,7 +11077,7 @@ blockquote {
 
 .btn-primary:hover,
 .challenge-submit:hover {
-    background-color: #3e87cc;
+    background-color: #6b91c4;
     color: white;
     box-shadow: 0px 0px 5px #3e87cc, 0px 0px 25px #3e87cc, 0px 0px 50px #3e87cc, 0px 0px 100px #3e87cc;
     -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
